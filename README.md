@@ -10,3 +10,5 @@ Sou um Desenvolvedor FullStack , dedicado e apaixonado por tecnologia. Estou est
 [![Elson stats](https://github-readme-stats.vercel.app/api?username=ElsonVictor)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElsonVictor)](https://github.com/anuraghazra/github-readme-stats)
+
+<meta name="google-site-verification" content="google1ab6e683059c06d1.html" />
