@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou um Desenvolvedor FullStack em formação, dedicado e apaixonado por tecnologia. Estou estudando JavaScript, React e desenvolvimento completo de aplicações pelo DevClub. Busco evoluir a cada projeto, criando soluções práticas e bem estruturadas. Tenho foco, curiosidade e vontade de crescer como desenvolvedor no mercado. Estou aprendendo:
+Sou um Desenvolvedor FullStack , dedicado e apaixonado por tecnologia. Estou estudando JavaScript, React e desenvolvimento completo de aplicações pelo DevClub. Busco evoluir a cada projeto, criando soluções práticas e bem estruturadas. Tenho foco, curiosidade e vontade de crescer como desenvolvedor no mercado. Estou aprendendo sempre aprenendo.
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
